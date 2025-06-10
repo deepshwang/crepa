@@ -1,6 +1,6 @@
 # Cross-frame Representation Alignment for Fine-tuning Video Diffusion Models
 
-⏳ The code will be released soon. Stay tuned! 👀
+⏳ The code will be released soon!
 
 [Paper](https://github.com/deepshwang/crepa) | [Project page](https://crepavideo.github.io)
 
