@@ -2,7 +2,7 @@
 
 ⏳ The code will be released soon!
 
-[Paper](https://github.com/deepshwang/crepa) | [Project page](https://crepavideo.github.io)
+[Paper](https://arxiv.org/abs/2506.09229) | [Project page](https://crepavideo.github.io)
 
 > [Sungwon Hwang\*](https://deepshwang.github.io), [Hyojin Jang\*](https://github.com/Whit3Snow), [Kinam Kim](https://kinam0252.github.io/), [Minho Park](https://pmh9960.github.io/) and [Jaegul Choo](https://sites.google.com/site/jaegulchoo/)  
 > KAIST
